@@ -6,20 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/shenxing) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-神行云（ShenXingYun）于 **2025 年**开业，主打**专线节点与 VLESS 协议**，面向晚高峰连接、AI 工具访问、流媒体观看及多设备使用场景。尝鲜包为 **¥23/月、120GB/月**；年付特惠版为 **¥96/年、60GB/月**，折合 **¥8/月**。新客下单使用优惠码 `sx0077` 享 **7 折**，**年付特惠版不参与优惠**。
-
 > [!NOTE]
 > **30 秒看懂神行云(ShenXingYun)**
 >
-> - **月付套餐**：尝鲜包 ¥23/月、120GB；基础包 ¥40/月、260GB；尊享包 ¥72/月、520GB。
-> - **最低年付**：年付特惠版 ¥96/年、60GB/月，折合 ¥8/月，不参与新人优惠。
-> - **新人优惠码**：`sx0077`，新客下单享 7 折，年付特惠版不参与。
-> - **线路与设备**：VLESS 协议、1 倍率、不限设备连接数；常规套餐标注 IPLC，年付特惠版标注 IEPL。
-> - **客户端与订阅**：提供自研客户端；使用第三方客户端时，通用订阅导入方式需联系在线客服获取。
-> - **套餐与支付**：没有不限时套餐；支持支付宝、微信支付、USDT。
+> [访问官网](https://eoht.net/serve/airport/shenxing) · [查看套餐与优惠码](https://eoht.net/serve/airport/shenxing#shenxing-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/shenxing#shenxing-speed-test) · [查看解锁图](https://eoht.net/serve/airport/shenxing#shenxing-unlock-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/shenxing#shenxing-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/shenxing#shenxing-speed-test) · [查看解锁图](https://eoht.net/serve/airport/shenxing#shenxing-unlock-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：尝鲜包 ¥23/月、120GB/月；年付特惠 ¥96/年、60GB/月，**不参与新人优惠**。
+> - **线路与订阅**：VLESS、1 倍率、不限设备；常规套餐 IPLC、年付特惠 IEPL。提供自研客户端，没有不限时套餐。
+> - **新人优惠**：新客下单可用 `sx0077` 享 7 折，年付特惠版除外，购买前核对所选套餐与实付金额。
 >
+
+神行云（ShenXingYun）于 **2025 年**开业，主打**专线节点与 VLESS 协议**，面向晚高峰连接、AI 工具访问、流媒体观看及多设备使用场景。尝鲜包为 **¥23/月、120GB/月**；年付特惠版为 **¥96/年、60GB/月**，折合 **¥8/月**。新客下单使用优惠码 `sx0077` 享 **7 折**，**年付特惠版不参与优惠**。
 
 <a id="shenxing-official-website"></a>
 
@@ -51,7 +48,7 @@
 > [!TIP]
 > **新人优惠与价格说明**
 >
-> - **新客 7 折优惠码**：`sx0077`，**年付特惠版不参与**；不限时流量包是否参与，需在结算页核对。
+> - **新客 7 折优惠码**：`sx0077`，**年付特惠版不参与**。
 > - 年付特惠版为 **¥96/年**，折合 **¥8/月**，不参与上述优惠；购买时需一次支付全年费用。
 > - 下表列出**使用优惠码前的套餐标价**，流量为每月额度，月付与年付金额分别为对应周期总额。
 >
